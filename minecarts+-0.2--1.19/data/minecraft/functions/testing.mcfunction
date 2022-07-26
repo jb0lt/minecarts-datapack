@@ -1,0 +1,2 @@
+execute as @e[type=minecraft:minecart] at @e[type=minecraft:minecart,nbt={DisplayState:{Name:"minecraft:lightning_rod"}}] run summon minecraft:lightning_bolt ~ ~3.7 ~
+execute as @e[type=minecraft:minecart] at @e[type=minecraft:minecart,nbt={DisplayState:{Name:"minecraft:note_block"}}] if block ~ ~-1 ~ minecraft:redstone_block run playsound minecraft:block.note_block.chime block @a ~ ~ ~ 100 1 0

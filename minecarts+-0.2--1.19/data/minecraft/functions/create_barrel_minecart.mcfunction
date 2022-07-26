@@ -1,0 +1,1 @@
+execute as @p at @p run summon minecraft:chest_minecart ~ ~ ~ {CustomDisplayTile:1,DisplayState:{Name:"minecraft:barrel",Properties:{facing:up}}}
