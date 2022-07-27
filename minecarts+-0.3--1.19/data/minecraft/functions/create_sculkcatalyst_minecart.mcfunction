@@ -1,0 +1,1 @@
+execute as @p at @p run summon minecraft:minecart ~ ~ ~ {CustomDisplayTile:1,DisplayState:{Name:"minecraft:sculk_catalyst"},DisplayOffset:7}
