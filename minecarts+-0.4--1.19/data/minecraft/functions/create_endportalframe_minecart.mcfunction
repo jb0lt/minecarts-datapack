@@ -1,0 +1,1 @@
+summon minecraft:minecart ~ ~ ~ {CustomDisplayTile:1,DisplayState:{Name:"minecraft:end_portal_frame",Properties:{eye:"true"}}}

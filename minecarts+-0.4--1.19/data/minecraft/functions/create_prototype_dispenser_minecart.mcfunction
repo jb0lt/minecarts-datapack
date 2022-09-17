@@ -1,0 +1,1 @@
+summon minecraft:minecart ~ ~ ~ {CustomDisplayTile:1,DisplayState:{Name:"minecraft:dispenser",Properties:{facing:up}},DisplayOffset:0}

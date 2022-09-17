@@ -1,0 +1,1 @@
+summon minecraft:furnace_minecart ~ ~ ~ {CustomDisplayTile:1,DisplayState:{Name:"minecraft:brewing_stand"},DisplayOffset:3}
