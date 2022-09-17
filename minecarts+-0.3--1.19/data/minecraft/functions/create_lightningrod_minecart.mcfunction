@@ -1,1 +1,0 @@
-execute at @p as @p run summon minecraft:minecart ~ ~ ~ {CustomDisplayTile:1,DisplayState:{Name:"minecraft:lightning_rod"},DisplayOffset:7}

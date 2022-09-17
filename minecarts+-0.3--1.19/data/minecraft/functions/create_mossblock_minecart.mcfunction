@@ -1,1 +1,0 @@
-execute as @p at @p run summon minecraft:minecart ~ ~ ~ {CustomDisplayTile:1,DisplayState:{Name:"minecraft:moss_block"},DisplayOffset:7}
